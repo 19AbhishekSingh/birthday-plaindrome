@@ -21,15 +21,7 @@ body {
     border-radius: 0 0 1rem 1rem;
 }
 
-.format-line {
-    margin: 0 auto;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    text-align: center;
-    width: 50rem;
-    max-width: 80%;
-    font-size: 1.2rem;
-}
+
 .intro{
     text-align: center;
     padding: 1.5rem;
